@@ -4,6 +4,8 @@ Terdapat file XML tentang icon (Gambar gembok dan siluet orang), warna, dan file
 
 File Mainactivity.Java dan Toast.xml digunakan untuk munculkan informasi "berhasil login" dan "tidak berhasil login"
 
+================================================================================================
+
 Letak File:
 
 Folder Java: MainActivity.Java
@@ -19,6 +21,8 @@ activity_main.xml ; toast.xml
 Folder Res > Values:
 
 colors.xml
+
+================================================================================================
 
 Nama: Muhammad Naufal Hidayat
 
